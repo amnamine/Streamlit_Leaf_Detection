@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+tensorflow==2.20.0
+numpy
+Pillow
+matplotlib
+seaborn
+pandas
+scikit-learn
